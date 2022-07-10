@@ -29,7 +29,4 @@ export default defineConfig({
     }
   }
 })
-function __dirname(__dirname: any, arg1: string): string {
-  throw new Error('Function not implemented.');
-}
 
