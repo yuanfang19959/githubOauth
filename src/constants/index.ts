@@ -1,5 +1,5 @@
-export const CLIENT_ID = '1bc11a0bb1ad74379c31';
-export const CLIENT_SECRET = '5f357e612edca8add255da0db33620ffd5a07626';
+export const CLIENT_ID = 'XXXXXXX';
+export const CLIENT_SECRET = 'XXXXXXX';
 export const REDIRECR_URL = "http://localhost:3000/callback";
 export const HOME = "http://localhost:3000/acc";
 export const SCOPE = "user";
